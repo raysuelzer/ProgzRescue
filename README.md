@@ -1,12 +1,12 @@
 # ProgzRescue
 Repository to help with archival and recovery of AOL Progs from the 1990s
 
-At the moment, I am simply posting links to zip files that have been extracted from warc files from the wayback machine.  I am hoping the community will use these links to determine which files are of interest for archiving for "AO Scene" community.  
+At the moment, I am simply posting links to zip files that have been extracted from metadata files from the wayback machine.  I am hoping the community will use these links to determine which files are of interest for archiving for "AO Scene" community.  
 
-I will open source the extrator I am using, however, it is very crude at the moment and relies upon downloading warc cdx files and placing them in hard coded directories. 
+I will open source the extractor I am using, however, it is very crude at the moment and relies upon downloading warc cdx files and placing them in hard coded directories. 
 
 
-As of now there are three files. 
+As of now there are three files in the archived-urls directory
 
 - found-angelfire-files.txt
 
